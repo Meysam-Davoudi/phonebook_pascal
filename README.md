@@ -1,2 +1,6 @@
 # phonebook_pascal
-phonebook with pascal
+Phonebook with pascal
+
+It uses a file database
+CLI user interface
+With compiled files for Linux and Windows
